@@ -1,5 +1,5 @@
 %module java_A
-%include "TempSensor.hpp"
+%include "TempSensor.i"
 
 %{
 %include A.hpp
